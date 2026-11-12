@@ -46,7 +46,7 @@
   gSiliciumPkgTokenSpaceGuid.PcdSmbiosSystemModel|"Realme 9 Pro"
   gSiliciumPkgTokenSpaceGuid.PcdSmbiosSystemRetailModel|"oscar"
   gSiliciumPkgTokenSpaceGuid.PcdSmbiosSystemRetailSku|"Realme_9_Pro_oscar"
-  gSiliciumPkgTokenSpaceGuid.PcdSmbiosBoardModel|"Realme 9 Pro"
+  gSiliciumPkgTokenSpaceGuid.PcdSmbiosSystemBoardModel|"Realme 9 Pro"
 
   #
   # Simple Frame Buffer
@@ -59,11 +59,6 @@
   # Platform PEI
   #
   gQcomPkgTokenSpaceGuid.PcdPlatformType|"LA"
-
-  #
-  # Storage
-  #
-  gQcomPkgTokenSpaceGuid.PcdInitCardSlot|TRUE
 
 [LibraryClasses]
   #

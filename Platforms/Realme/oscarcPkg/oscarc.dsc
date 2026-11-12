@@ -46,7 +46,7 @@
   gSiliciumPkgTokenSpaceGuid.PcdSmbiosSystemModel|"Realme Q5"
   gSiliciumPkgTokenSpaceGuid.PcdSmbiosSystemRetailModel|"oscarc"
   gSiliciumPkgTokenSpaceGuid.PcdSmbiosSystemRetailSku|"Realme_Q5_oscarc"
-  gSiliciumPkgTokenSpaceGuid.PcdSmbiosBoardModel|"Realme Q5"
+  gSiliciumPkgTokenSpaceGuid.PcdSmbiosSystemBoardModel|"Realme Q5"
 
   #
   # Simple Frame Buffer
@@ -59,11 +59,6 @@
   # Platform PEI
   #
   gQcomPkgTokenSpaceGuid.PcdPlatformType|"LA"
-
-  #
-  # Storage
-  #
-  gQcomPkgTokenSpaceGuid.PcdInitCardSlot|TRUE
 
 [LibraryClasses]
   #
